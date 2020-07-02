@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NIM GAME">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/NIM GAME.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
